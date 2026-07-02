@@ -36,12 +36,12 @@
 ---
 
 <!--
-  Stats cards are served by a self-hosted github-readme-stats instance
-  (github-readme-stats-compbiolover.vercel.app) instead of the shared public
-  instance, which is frequently rate-limited and drops the grade/rank card.
-  See STATS_SETUP.md for the one-time deploy steps.
+  Stats cards are served by github-stats-extended
+  (github-stats-extended.vercel.app), a maintained fork of github-readme-stats,
+  instead of the shared public instance that was rate-limited and dropped the
+  grade/rank card.
 -->
 <p align="center">
-  <img src="https://github-readme-stats-compbiolover.vercel.app/api?username=compbiolover&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats-compbiolover.vercel.app/api/top-langs/?username=compbiolover&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
+  <img src="https://github-stats-extended.vercel.app/api?username=compbiolover&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="160">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=compbiolover&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160">
 </p>
