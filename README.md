@@ -28,6 +28,12 @@
 - Developing housinglabel.dev and related housing-transparency tools
 - Working with infrastructure and urbanism data for Memphis, including sidewalk-gap and walkability analysis
 
+### Recent activity
+
+<!-- Auto-updated monthly by .github/workflows/update-readme.yml; edits between the markers are overwritten. -->
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
 ### Contact
 
 - [housinglabel.dev](https://housinglabel.dev)
