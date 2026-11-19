@@ -32,6 +32,15 @@
 
 <!-- Auto-updated monthly by .github/workflows/update-readme.yml; edits between the markers are overwritten. -->
 <!-- ACTIVITY:START -->
+_Last 30 days, updated November 19, 2026:_ **197** contributions (**122** public commits, **77** pull requests, **1** reviews, **2** issues)
+
+Recently updated projects:
+
+- [compbiolover](https://github.com/compbiolover/compbiolover)
+- [empty-ballot-lines](https://github.com/compbiolover/empty-ballot-lines) · Python
+- [parallax](https://github.com/compbiolover/parallax) — Compare two media diets through the lens of moral foundations theory. · Python
+- [housing-nutrition-label](https://github.com/compbiolover/housing-nutrition-label) — Generating a nutrition-like label for housing · Python
+- [pledge-ledger](https://github.com/compbiolover/pledge-ledger) — A promise tracker for the 2026 US midterm elections  · Python
 <!-- ACTIVITY:END -->
 
 ### Contact
